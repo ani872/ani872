@@ -9,7 +9,6 @@
 
 <p align="left"> <a href="https://twitter.com/ghosh_re" target="blank"><img src="https://img.shields.io/twitter/follow/ghosh_re?logo=twitter&style=for-the-badge" alt="ghosh_re" /></a> </p>
 
-- 🔭 I’m currently working on *Netflix-Clone*
 
 - 🌱 I’m currently learning *I have completed HTML & CSS, and I’m now diving into **JavaScript to add interactivity to my websites. Alongside JavaScript, I’m exploring basic animations to make my projects more dynamic and user-friendly. Next, I’ll move on to React and Tailwind CSS for building modern, responsive, and powerful web applications. 🚀**
 

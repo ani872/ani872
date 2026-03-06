@@ -1,5 +1,6 @@
 <h1 align="center" class="heading-element" dir="auto">hello there!🤙🏻</h1>
- <img src=<img width="750" height="400" alt="image" src="https://github.com/user-attachments/assets/e5cca5d7-09c9-492f-acf4-94865ecdf28a" />
+ <img src=<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/d94a3322-2d1b-4206-addd-d93aadc98eb5" />
+
 
 
 

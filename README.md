@@ -1,5 +1,6 @@
 <h1 align="center" class="heading-element" dir="auto">hello there!🤙🏻</h1>
- <img src="https://camo.githubusercontent.com/5770bdb8a90d006cb632747bac1247d649e2162193a9c8b62b3ee5f8ff15922e/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f43344531324151486f6861614a6d36714e4e772f61727469636c652d636f7665725f696d6167652d736872696e6b5f3630305f323030302f302f313633303532363435353337303f653d3231343734383336343726763d6265746126743d753259314b6d34425134497078523935556166785844356670755f665a76685f4b4532714876715f6e6745" style="max-width: 100%;">
+ <img src=<img width="308" height="164" alt="image" src="https://github.com/user-attachments/assets/f6af5963-9fa4-4f48-b7f0-b8066980a419" />
+
 
 <h1 align="center">Hi 👋, I'm Anirban Ghosh</h1>
 <h3 align="center">A passionate Web-developer in India.Web design is not just about creating pretty layouts. It’s about understanding the marketing challenge behind your business.</h3>

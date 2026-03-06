@@ -1,5 +1,6 @@
 <h1 align="center" class="heading-element" dir="auto">hello there!🤙🏻</h1>
- <img src=<img width="308" height="164" alt="image" src="https://github.com/user-attachments/assets/f6af5963-9fa4-4f48-b7f0-b8066980a419" />
+ <img src=<img width="750" height="400" alt="image" src="https://github.com/user-attachments/assets/e5cca5d7-09c9-492f-acf4-94865ecdf28a" />
+
 
 
 <h1 align="center">Hi 👋, I'm Anirban Ghosh</h1>

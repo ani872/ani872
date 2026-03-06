@@ -1,6 +1,6 @@
 <h1 align="center" class="heading-element" dir="auto">hello there!🤙🏻</h1>
  <img src=<img width="1920" height="732" alt="image" src="https://github.com/user-attachments/assets/8a39aa3e-6f7c-4193-b223-faf3927c8685" />
-<h1 align="center">Hi 👋, I'm Anirban Ghosh</h1>
+<h1 align="center">Hi 👋, I'm Anirban Ghosh</h1> 
 <h3 align="center">A passionate Web-developer in India.Web design is not just about creating pretty layouts. It’s about understanding the marketing challenge behind your business.</h3>
 <img align="right" alt="Coding" width="315" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWRhcXJldWtmZThhOXprd3VmemhsdHkwbGljenBpNHZvMG1xaHJpOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 

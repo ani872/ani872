@@ -1,5 +1,5 @@
 <h1 align="center" class="heading-element" dir="auto">hello there!🤙🏻</h1>
-<img width="1920" height="732" alt="image" src="https://github.com/user-attachments/assets/8a29ccee-7c60-46d0-93b9-d9ced0136257" />
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/de8bb7cf-5784-4e99-a509-bd2471cc3a9b" />
 
 <h1 align="center">Hi 👋, I'm Anirban Ghosh</h1> 
 <h3 align="center">A passionate Web-developer in India.Web design is not just about creating pretty layouts. It’s about understanding the marketing challenge behind your business.</h3>

@@ -1,5 +1,6 @@
 <h1 align="center" class="heading-element" dir="auto">hello there!🤙🏻</h1>
- ![logo](https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif)
+<img width="1920" height="732" alt="image" src="https://github.com/user-attachments/assets/8a29ccee-7c60-46d0-93b9-d9ced0136257" />
+
 <h1 align="center">Hi 👋, I'm Anirban Ghosh</h1> 
 <h3 align="center">A passionate Web-developer in India.Web design is not just about creating pretty layouts. It’s about understanding the marketing challenge behind your business.</h3>
 <img align="right" alt="Coding" width="315" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWRhcXJldWtmZThhOXprd3VmemhsdHkwbGljenBpNHZvMG1xaHJpOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">

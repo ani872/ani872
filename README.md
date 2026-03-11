@@ -1,6 +1,6 @@
 <h1 align="center" class="heading-element" dir="auto">hello there!🤙🏻</h1>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DhruvGorasiya/DhruvGorasiya/main/header.gif" alt="Pixel Art Developer Setup" width="100%"/>
+  <img align="right" alt="GIF" src="https://miro.medium.com/max/700/0*FGD6BUzzZs1VJLuY.gif" width="100%"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Anirban Ghosh</h1> 

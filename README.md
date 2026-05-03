@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anirban Ghosh</h1>
-<h3 align="center">A passionate Web-developer in India.Web design is not just about creating pretty layouts. It’s about understanding the marketing challenge behind your business.</h3>
+<h3 align="center">A passionate Web-developer in India.Web design is not just about creating pretty layouts. It’s about understanding the marketing challenge behind your business.</h3> 
+<img align="right" alt="GIF" src="https://miro.medium.com/max/700/0*FGD6BUzzZs1VJLuY.gif" width="100%"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ani872&label=Profile%20views&color=0e75b6&style=flat" alt="ani872" /> </p>
 
